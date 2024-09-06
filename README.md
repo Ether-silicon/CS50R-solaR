@@ -6,9 +6,9 @@
 ## Key Features:
 
 - Data filtering: Filter data by date and time.
-- Data sorting: Sort data by date and time.
+- Data filling: Fill up the empty time with zeros kWh. Ensure continuity of visualization.
+- Data scaling: Scale up energy by 1000x.
 - Data visualization: Create informative plots to visualize trends and patterns.
-- Data analysis: Calculate key metrics and perform statistical analysis.
 
 ## Installation:
 
