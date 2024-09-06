@@ -46,4 +46,6 @@ print(plot)
 ## Example of result:
 
 ![alt text](https://github.com/Ether-silicon/CS50R-solaR/blob/main/RStudio%20IDE.jpeg)
-![alt text]([https://github.com/Ether-silicon/CS50R-solaR/blob/main/RStudio%20IDE.jpeg](https://github.com/Ether-silicon/CS50R-solaR/blob/main/CS50R%20Final%20Project%203.png))
+
+![alt text](https://github.com/Ether-silicon/CS50R-solaR/blob/main/CS50R%20Final%20Project%203.png)
+
