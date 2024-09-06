@@ -24,7 +24,7 @@ Code snippet
 library(solaR)
 
 # Load your solar data
-data <- read.csv("your_solar_data.csv")
+data <- read.csv("Solar_Energy_Production.csv")
 
 # Filter data for a specific date
 filtered_data <- filter_date(data, "2024-09-01")
