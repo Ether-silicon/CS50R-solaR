@@ -1,0 +1,11 @@
+Package: solaR
+Title: solaR 
+Description: Package of analysis and visualize solar power generation dataset. Contain 4 core function to filter the date, fill up the empty value with 0kWh, scale up by 1000x and visualize over the time.
+Version: 1.0
+Authors@R: person("Teh", "Yoong Sin", email="tehyoongsin.ce@gmail.com", role = c("aut", "cre", "cph"))
+License: GPL-3
+Video: https://youtu.be/HZZUfQMcijk
+RoxygenNote: 7.3.1
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 4
